@@ -14,6 +14,7 @@ Here you'll find the official repos, community collections, standalone skills wo
 - [Authoring tools](#authoring-tools)
 - [Reading & docs](#reading--docs)
 - [Related](#related)
+- [Use this list as a skill](#use-this-list-as-a-skill)
 - [Contributing](#contributing)
 
 ## Official
@@ -83,6 +84,20 @@ Adjacent ecosystems you probably want alongside skills.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — The canonical MCP servers list.
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) — MCP clients.
 - [punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools) — SDKs, testing, and developer tooling for MCP.
+
+## Use this list as a skill
+
+This repo ships a small companion skill at [`skills/browse-awesome-skills`](skills/browse-awesome-skills/SKILL.md). It lets Claude search this list for you — ask for "a skill that does X" or "which collection should I install" and Claude will suggest entries from the sections above.
+
+Install it into Claude Code (user scope):
+
+```bash
+mkdir -p ~/.claude/skills/browse-awesome-skills
+curl -o ~/.claude/skills/browse-awesome-skills/SKILL.md \
+  https://raw.githubusercontent.com/horiastanxd/awesome-claude-skills/main/skills/browse-awesome-skills/SKILL.md
+```
+
+Then in a Claude session, try: *"find me a skill for generating PowerPoint decks"* or *"which awesome-skills collection is worth installing?"*.
 
 ## Contributing
 
