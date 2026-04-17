@@ -12,13 +12,13 @@ Help the user find the right entry in the [Awesome Claude Skills](https://github
 
 1. Fetch the latest list: `https://raw.githubusercontent.com/horiastanxd/awesome-claude-skills/main/README.md`
 2. Read the user's request and figure out which section(s) apply: Official, Collections, Individual skills, Authoring tools, Reading & docs, or Related.
-3. Suggest 1–3 entries that fit. For each, give the link and the one-line description from the list verbatim.
+3. Suggest 1-3 entries that fit. For each, give the link and the one-line description from the list verbatim.
 4. If nothing fits, say so. Don't invent entries.
 
 ## Guidelines
 
 - Quote descriptions from the list verbatim; don't rewrite them.
-- When recommending from Collections, mention whether the list is Claude-focused or multi-agent — that distinction is in the list itself.
+- When recommending from Collections, mention whether the list is Claude-focused or multi-agent - that distinction is in the list itself.
 - If the user wants to author a new skill, point to `skill-creator` first unless they need something more specific.
 - If the request is about MCP servers or Claude Code plugins generally (not skills), point to the Related section, which cross-links to `awesome-mcp-servers` and `awesome-claude-code`.
 - Link the section anchor when useful, e.g. `https://github.com/horiastanxd/awesome-claude-skills#collections`.

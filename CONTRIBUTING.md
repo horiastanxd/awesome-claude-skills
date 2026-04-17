@@ -6,7 +6,7 @@ Thanks for considering a contribution. A few rules keep the list useful.
 
 - Skills for Claude (Claude Code, Claude apps, or the API via Agent Skills).
 - Tools that help you author, validate, or package skills.
-- Docs, posts, or videos that teach something specific — not general "intro to Claude" content.
+- Docs, posts, or videos that teach something specific - not general "intro to Claude" content.
 
 If it's an MCP server, it probably belongs in [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) instead. If it's a Claude Code plugin that doesn't ship skills, [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) is a better fit.
 
@@ -15,7 +15,7 @@ If it's an MCP server, it probably belongs in [awesome-mcp-servers](https://gith
 One line per entry:
 
 ```
-- [name](url) — one-line description.
+- [name](url) - one-line description.
 ```
 
 - Use the project's real name, not a marketing tagline.
