@@ -54,6 +54,7 @@ Single-purpose repos worth installing on their own.
 - [obra/superpowers-lab](https://github.com/obra/superpowers-lab) - Experimental companion: new techniques that haven't landed in Superpowers yet.
 - [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) - Chrome automation via DevTools Protocol, no deps.
 - [tfriedel/claude-office-skills](https://github.com/tfriedel/claude-office-skills) - Office document skills (pptx/docx/xlsx/pdf) for the CLI. Predates Anthropic's official release; maintainer now points to the official repo.
+- [Xquik x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper) - X/Twitter data skill with REST, MCP, webhooks, and write-action guidance.
 
 ## Authoring tools
 
