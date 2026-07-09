@@ -55,6 +55,7 @@ Single-purpose repos worth installing on their own.
 - [obra/superpowers-chrome](https://github.com/obra/superpowers-chrome) - Chrome automation via DevTools Protocol, no deps.
 - [tfriedel/claude-office-skills](https://github.com/tfriedel/claude-office-skills) - Office document skills (pptx/docx/xlsx/pdf) for the CLI. Predates Anthropic's official release; maintainer now points to the official repo.
 
+- [linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin) - Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 ## Authoring tools
 
 - [skill-creator](https://github.com/anthropics/skills/tree/main/skills/skill-creator) - The official interactive skill for authoring and evaluating new skills. Start here.
