@@ -43,6 +43,7 @@ Multi-agent (work with Claude alongside Codex, Cursor, Gemini CLI, and others):
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - 1400+ skills with an installer CLI and pre-built bundles.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - 1000+ skills organized by provider. Good if you're mixing tools.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ skills across engineering, marketing, product, compliance, and C-level advisory. Works on 12 coding agents.
+- [inHotel-io/govisit-toolkit](https://github.com/inhotel-io/govisit-toolkit) - 22 MIT-licensed GoVisit Agent Skills for read-only travel search and published-content retrieval.
 
 ## Individual skills & skill-based plugins
 
