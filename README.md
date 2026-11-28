@@ -43,6 +43,7 @@ Multi-agent (work with Claude alongside Codex, Cursor, Gemini CLI, and others):
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - 1400+ skills with an installer CLI and pre-built bundles.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) - 1000+ skills organized by provider. Good if you're mixing tools.
 - [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) - 232+ skills across engineering, marketing, product, compliance, and C-level advisory. Works on 12 coding agents.
+- [DeadInternetStudios/100x-engineer-skill](https://github.com/DeadInternetStudios/100x-engineer-skill) - 13 skills for planning agent work first and verifying it with tests and formal checks.
 
 ## Individual skills & skill-based plugins
 
